@@ -20,3 +20,13 @@ Tarea 01
 - Proyectos académicos
 - Simulaciones de redes en Cisco Packet Tracer
 - Prácticas en entornos virtuales con máquinas Linux
+  
+## 📚 Experiencia previa
+- Proyectos académicos
+- Simulaciones de redes en Cisco Packet Tracer
+- Prácticas en entornos virtuales con máquinas Linux
+  
+## 📚 Experiencia previa
+- Proyectos académicos
+- Simulaciones de redes en Cisco Packet Tracer
+- Prácticas en entornos virtuales con máquinas Linux
